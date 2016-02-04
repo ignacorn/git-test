@@ -1,5 +1,5 @@
-test string
-test edit
-main version
-testing further
-and further
+test string;
+test edit;
+main version;
+testing further;
+and further;
