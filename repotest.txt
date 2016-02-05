@@ -3,3 +3,4 @@ test edit;
 main version;
 testing further;
 and further;
+console check
